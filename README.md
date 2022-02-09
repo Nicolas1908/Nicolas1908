@@ -1,8 +1,8 @@
 ### Seja Bem Vindo! 👋
 
-Meu nome é Nicolas, sou um estudante de Análise e Desenvolvimentos de Sistemas e possuo conhecimento técnico em diversas tecnologias do mercado. Possuo experiência acadêmica com NodeJS, Java, C#, Angular 9, ReactJS e NextJS.
+Meu nome é Nicolas, atualmente trabalho
 
-- 🔭 No momento estou no 4º Semestre de Análise e Desenvolvimento na [Universidade São Judas Tadeu](https://www.usjt.br). Além disso, também possuo duas formações: Técnico em Informática na [Etec Albert Einstein](https://etecalberteinstein.com.br) e Programador de Sistemas no [GEEaD](https://portalgeead.cps.sp.gov.br/).
+- 🔭 No momento estou no último Semestre de Análise e Desenvolvimento na [Universidade São Judas Tadeu](https://www.usjt.br) e estou a procura da minha primeira experiência na área .
 
 - Meu LinkedIn: [NICOLAS CG](https://www.linkedin.com/in/nicolas-cassiano-451b9b195/)
 
