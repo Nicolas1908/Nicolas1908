@@ -1,6 +1,6 @@
 ### Seja Bem Vindo! 👋
 
-Meu nome é Nicolas , tenho 20 anos e busco fazer a diferença na área de TI . Sou estudante de Análise e Desenvolvimento de Sistemas na [Universidade São Judas Tadeu](https://www.usjt.br) , onde começo minha jornada acadêmica e meu sonho de se tornar programador. 
+Meu nome é Nicolas , tenho 20 anos e busco fazer a diferença na área de TI . Sou formado em Análise e Desenvolvimento de Sistemas pela [Universidade São Judas Tadeu](https://www.usjt.br) , onde começo minha jornada acadêmica e meu sonho de se tornar programador. 
 
 - 🔭 No momento estou estou a procura da minha primeira experiência na área de desenvolvimento para que consiga colocar em prática tudo o que aprendi durante minha vida acadêmica.
 
